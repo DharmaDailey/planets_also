@@ -1,2 +1,4 @@
+Testing the diff function. 
+
 Adding another line to try the process again. 
-Cold and dry, but everything's my favorite color
+Cold and dry, but everything's my favorite toast
